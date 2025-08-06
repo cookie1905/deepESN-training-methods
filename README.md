@@ -128,6 +128,10 @@ The main workflow is structured as follows:
 - **Reservoir Dynamics:** Visualizes the activations of selected nodes in a reservoir over timesteps.
 - **Intermediate Dynamics:** Visualizes activations of selected intermediate layers over timesteps.
 
+## Ouput Images
+![My Diagram](images/deepESN_IA_bptt_emg.png)
+![My Diagram](images/deepESN_bptt_mso.png)
+
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
